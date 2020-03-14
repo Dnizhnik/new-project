@@ -1,8 +1,7 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Введите текст</title>
 </head>
 <body>
 <form action="base.php" method="post" enctype="multipart/form-data">
